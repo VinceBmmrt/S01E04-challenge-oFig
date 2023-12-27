@@ -1,0 +1,39 @@
+- body
+  - header
+    - div "rouge"
+      - h1 "Ofig"
+      - h2 "Figurines et statuettes"
+    - div "gris"
+      - h2 "Figurines sur le thème de..."
+  - main
+    - article
+      - img
+      - h3 (saga de la figurine)
+      - h2 (titre du produit)
+      - p (description)
+      - lien en forme de bouton
+        - span (ajout au panier)
+        - span (conteneur de prix)
+          - span (prix barré)
+          - span (prix)
+    - article
+      - img
+      - h3 (saga de la figurine)
+      - h2 (titre du produit)
+      - p (description)
+      - lien en forme de bouton
+        - span (ajout au panier)
+        - span (conteneur de prix)
+          - span (prix barré)
+          - span (prix)
+    - article
+      - img
+      - h3 (saga de la figurine)
+      - h2 (titre du produit)
+      - p (description)
+      - lien en forme de bouton
+        - span (ajout au panier)
+        - span (conteneur de prix)
+          - span (prix barré)
+          - span (prix)
+  - footer
