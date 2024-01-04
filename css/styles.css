@@ -149,3 +149,12 @@ body {
     }
 }
 
+
+@media only screen and (min-width: 768px) {
+    .inputs__left,
+    .inputs__right {
+        flex-direction: row;
+        gap: 25px; /* Ajustez l'espacement entre les sections alignées horizontalement */
+        justify-content: space-between;
+    }
+}
